@@ -1,5 +1,7 @@
 # fake3D.js
-fake 3D using mask and WebGL. Based on a code found on Internet, all credits go to his author (https://codepen.io/robin-dela/pen/vaQQNL).
+https://jsfiddle.net/ynszjdbt/
+
+fake 3D using mask and WebGL. Based on a code found on Internet, all credits go to his author.
 
 TODO : 
 Look at this example :
